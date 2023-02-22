@@ -34,6 +34,7 @@ DROP COLUMN species;
 ALTER TABLE animals 
 ADD COLUMN species_id INT;
 
+
 ALTER TABLE animals
 ADD CONSTRAINT fk_animals_spec
 FOREIGN KEY (species_id)
