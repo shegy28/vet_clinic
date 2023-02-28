@@ -71,9 +71,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## Schema Diagram <a name="live-demo"></a>
 
-- [coming soon ...]()
+- ![drawSQL-vet-clinic-export-2023-02-28](https://user-images.githubusercontent.com/111022896/221858650-89d2962e-941f-4c09-9dde-ff4f248820c9.png)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
